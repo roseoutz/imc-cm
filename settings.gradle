@@ -1,4 +1,3 @@
 rootProject.name = 'ims-cm'
 include 'ims-cm-common'
-include 'ims-security-webflux-oauth'
 
