@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fd48c4b-6cf6-47ab-9cfb-cad701316cd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ims-cm-common/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ims-cm-common/src/main/java/io/ims/common/util/CommonErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ims-cm-common/src/main/java/io/ims/common/util/ErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ims-cm-common/src/main/java/io/ims/common/util/JsonUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ims-cm-common/src/main/java/io/ims/common/util/UuidUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ims-cm-common/src/test/java/io/cm/common/JsonUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="6fd48c4b-6cf6-47ab-9cfb-cad701316cd7" name="Changes" comment="ims 구제 잡기 시작">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +74,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -233,8 +217,16 @@
       <option name="presentableId" value="Default" />
       <updated>1656293281651</updated>
       <workItem from="1656293282918" duration="353000" />
-      <workItem from="1656293714671" duration="10242000" />
+      <workItem from="1656293714671" duration="10420000" />
     </task>
+    <task id="LOCAL-00001" summary="ims 구제 잡기 시작">
+      <created>1656315690762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656315690762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +242,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ims 구제 잡기 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="ims 구제 잡기 시작" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
