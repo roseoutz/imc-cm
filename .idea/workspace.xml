@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fd48c4b-6cf6-47ab-9cfb-cad701316cd7" name="Changes" comment="ims 구제 잡기 시작">
+    <list default="true" id="6fd48c4b-6cf6-47ab-9cfb-cad701316cd7" name="Changes" comment="ims git ignore 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +29,12 @@
         <task path="$PROJECT_DIR$/../ims-security/ims-security-oauth">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/../ims-security">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ims-security" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -69,7 +67,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "adopt-openjdk-11",
-    "last_opened_file_path": "/Users/bandisnc/Desktop/Study/ims/ims-security/ims-security-reactive-oauth/src/main/java",
+    "last_opened_file_path": "/Users/bandisnc/Desktop/Study/ims/ims-cm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,11 +76,14 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "61f9fb8adebb7e93a00c2505ea2caa10"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../ims-security" />
       <recent name="$PROJECT_DIR$/../ims-security/ims-security-reactive-oauth/src/main/java" />
     </key>
   </component>
@@ -217,7 +218,8 @@
       <option name="presentableId" value="Default" />
       <updated>1656293281651</updated>
       <workItem from="1656293282918" duration="353000" />
-      <workItem from="1656293714671" duration="10420000" />
+      <workItem from="1656293714671" duration="10568000" />
+      <workItem from="1656316005747" duration="529000" />
     </task>
     <task id="LOCAL-00001" summary="ims 구제 잡기 시작">
       <created>1656315690762</created>
@@ -226,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656315690762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ims git ignore 추가">
+      <created>1656315981541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656315981541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +254,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ims 구제 잡기 시작" />
-    <option name="LAST_COMMIT_MESSAGE" value="ims 구제 잡기 시작" />
+    <MESSAGE value="ims git ignore 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="ims git ignore 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
