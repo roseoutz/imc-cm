@@ -5,11 +5,33 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../ims-cache" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../ims-cache" />
+            <option value="$PROJECT_DIR$/../ims-cache/ims-cache-common" />
+            <option value="$PROJECT_DIR$/../ims-cache/ims-cache-redis" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ims-cm-common" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../ims-data" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../ims-data" />
+            <option value="$PROJECT_DIR$/../ims-data/ims-data-jpa" />
+            <option value="$PROJECT_DIR$/../ims-data/ims-data-redis" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -22,6 +44,19 @@
             <option value="$PROJECT_DIR$/../ims-security/ims-security-common" />
             <option value="$PROJECT_DIR$/../ims-security/ims-security-oauth" />
             <option value="$PROJECT_DIR$/../ims-security/ims-security-reactive-oauth" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../ims-user" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../ims-user" />
+            <option value="$PROJECT_DIR$/../ims-user/ims-user-common" />
+            <option value="$PROJECT_DIR$/../ims-user/ims-user-data-r2dbc" />
+            <option value="$PROJECT_DIR$/../ims-user/ims-user-svr" />
+            <option value="$PROJECT_DIR$/../ims-user/ims-user-web" />
           </set>
         </option>
       </GradleProjectSettings>
