@@ -1,4 +1,4 @@
-package io.ims.common.util;
+package io.myhome.common.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
@@ -6,7 +6,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.commons.lang3.SerializationException;
 
 /**
- * packageName    : io.ims.common.util
+ * packageName    : io.myhome.common.util
  * fileName       : JsonUtil
  * author         : kimdonggyuuuuu
  * date           : 2022/06/27

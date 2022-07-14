@@ -1,4 +1,4 @@
-package io.ims.common.util;
+package io.myhome.common.util;
 
 import com.fasterxml.uuid.EthernetAddress;
 import com.fasterxml.uuid.Generators;
@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Base64;
 
 /**
- * packageName    : io.ims.common.util
+ * packageName    : io.myhome.common.util
  * fileName       : UuidUtil
  * author         : kimdonggyuuuuu
  * date           : 2022/06/27

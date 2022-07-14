@@ -1,7 +1,7 @@
 package io.cm.common;
 
 import com.fasterxml.jackson.core.type.TypeReference;
-import io.ims.common.util.JsonUtil;
+import io.myhome.common.util.JsonUtil;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;

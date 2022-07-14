@@ -1,9 +1,9 @@
-package io.ims.common.util;
+package io.myhome.common.util;
 
 import java.util.Optional;
 
 /**
- * packageName    : io.ims.common.util
+ * packageName    : io.myhome.common.util
  * fileName       : ErrorCode
  * author         : kimdonggyuuuuu
  * date           : 2022/06/27

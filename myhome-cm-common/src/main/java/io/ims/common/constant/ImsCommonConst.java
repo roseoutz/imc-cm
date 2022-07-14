@@ -1,7 +1,7 @@
-package io.ims.common.constant;
+package io.myhome.common.constant;
 
 /**
- * packageName    : io.ims.common.constant
+ * packageName    : io.myhome.common.constant
  * fileName       : ImsCommonConst
  * author         : kimdonggyuuuuu
  * date           : 2022/06/27

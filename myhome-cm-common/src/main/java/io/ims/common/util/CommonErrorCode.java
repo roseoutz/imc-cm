@@ -1,7 +1,7 @@
-package io.ims.common.util;
+package io.myhome.common.util;
 
 /**
- * packageName    : io.ims.common.util
+ * packageName    : io.myhome.common.util
  * fileName       : CommonErrorCode
  * author         : kimdonggyuuuuu
  * date           : 2022/06/27
