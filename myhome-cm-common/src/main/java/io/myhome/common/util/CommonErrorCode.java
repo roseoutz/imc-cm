@@ -12,7 +12,8 @@ package io.myhome.common.util;
  * 2022/06/27        kimdonggyuuuuu       최초 생성
  */
 public enum CommonErrorCode implements ErrorCode {
-    COMMON_ERROR("error.common")
+    COMMON_ERROR("error.common"),
+    NETWORK_ERROR("error.network")
     ;
 
     private final String msg;
