@@ -13,7 +13,8 @@ package io.myhome.common.util;
  */
 public enum CommonErrorCode implements ErrorCode {
     COMMON_ERROR("error.common"),
-    PERMISSION_DENIED("error.permission.denied")
+    PERMISSION_DENIED("error.permission.denied"),
+    NETWORK_ERROR("error.network")
     ;
 
     private final String msg;
